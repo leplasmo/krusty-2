@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/krusty-2/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/krusty-2/static/js/main.8c6d2fd4.chunk.js",
+    "main.js.map": "/krusty-2/static/js/main.8c6d2fd4.chunk.js.map",
+    "runtime-main.js": "/krusty-2/static/js/runtime-main.19c8049c.js",
+    "runtime-main.js.map": "/krusty-2/static/js/runtime-main.19c8049c.js.map",
+    "static/js/2.be508c62.chunk.js": "/krusty-2/static/js/2.be508c62.chunk.js",
+    "static/js/2.be508c62.chunk.js.map": "/krusty-2/static/js/2.be508c62.chunk.js.map",
+    "static/js/3.837ab34b.chunk.js": "/krusty-2/static/js/3.837ab34b.chunk.js",
+    "static/js/3.837ab34b.chunk.js.map": "/krusty-2/static/js/3.837ab34b.chunk.js.map",
+    "index.html": "/krusty-2/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/krusty-2/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.be508c62.chunk.js.LICENSE.txt": "/krusty-2/static/js/2.be508c62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19c8049c.js",
+    "static/js/2.be508c62.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8c6d2fd4.chunk.js"
+  ]
+}
